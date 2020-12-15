@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/form-rule-engine/static/css/main.f4605524.chunk.css",
+    "main.js": "/form-rule-engine/static/js/main.e8c43b1a.chunk.js",
+    "main.js.map": "/form-rule-engine/static/js/main.e8c43b1a.chunk.js.map",
+    "runtime-main.js": "/form-rule-engine/static/js/runtime-main.8156dc48.js",
+    "runtime-main.js.map": "/form-rule-engine/static/js/runtime-main.8156dc48.js.map",
+    "static/css/2.c9ce8015.chunk.css": "/form-rule-engine/static/css/2.c9ce8015.chunk.css",
+    "static/js/2.d0cb4690.chunk.js": "/form-rule-engine/static/js/2.d0cb4690.chunk.js",
+    "static/js/2.d0cb4690.chunk.js.map": "/form-rule-engine/static/js/2.d0cb4690.chunk.js.map",
+    "static/js/3.dfe6c464.chunk.js": "/form-rule-engine/static/js/3.dfe6c464.chunk.js",
+    "static/js/3.dfe6c464.chunk.js.map": "/form-rule-engine/static/js/3.dfe6c464.chunk.js.map",
+    "index.html": "/form-rule-engine/index.html",
+    "static/css/2.c9ce8015.chunk.css.map": "/form-rule-engine/static/css/2.c9ce8015.chunk.css.map",
+    "static/css/main.f4605524.chunk.css.map": "/form-rule-engine/static/css/main.f4605524.chunk.css.map",
+    "static/js/2.d0cb4690.chunk.js.LICENSE.txt": "/form-rule-engine/static/js/2.d0cb4690.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8156dc48.js",
+    "static/css/2.c9ce8015.chunk.css",
+    "static/js/2.d0cb4690.chunk.js",
+    "static/css/main.f4605524.chunk.css",
+    "static/js/main.e8c43b1a.chunk.js"
+  ]
+}
